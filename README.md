@@ -62,4 +62,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Wasting time. are licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Wasting time. Last minute demo. nder the [MIT license](https://opensource.org/licenses/MIT).
