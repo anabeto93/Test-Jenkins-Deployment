@@ -3,7 +3,7 @@
 
 [![Build Status](https://jenkins.rapidwristbands2.com/buildStatus/icon?job=Test-Pull-Requests)](https://jenkins.rapidwristbands2.com/job/Test-Pull-Requests)
 <p align="center">
-<a href='https://jenkins.rapidwristbands2.com/buildStatus/icon?job=Test-Pull-Requests' target="_blank"><img src='https://jenkins.rapidwristbands2.com/buildStatus/icon?job=Test-Pull-Requests' alt='build-status'></a>
+<a href='https://jenkins.rapidwristbands2.com/buildStatus/icon?job=Test-Pull-Requests' target="_blank"><img src='https://jenkins.rapidwristbands2.com/buildStatus/icon?job=Test-Pull-Requests' alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
